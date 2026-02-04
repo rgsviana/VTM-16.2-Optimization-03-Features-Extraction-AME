@@ -1,6 +1,6 @@
 VTM-16.2-Optimization-03-Features-Extraction-AME
 
-VTM reference software for VVC
+VTM 16.2 - Ramiro - Otimização Inter-Quadros - Extração Features AME
 ==============================
 
 This software package is the reference software for Rec. ITU-T H.266 | ISO/IEC 23090-3 Versatile Video Coding (VVC). The reference software includes both encoder and decoder functionality.
